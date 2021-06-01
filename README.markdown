@@ -66,3 +66,4 @@ That's it!!!
 Posters for each movie is from MovieLens dataset.
 Filename corresponds to the ‘movieId’.
 It is open-sourced at: https://github.com/babu-thomas/movielens-poster
+![Screenshot](ss-1.png)
